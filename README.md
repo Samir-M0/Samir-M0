@@ -9,8 +9,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samir-M0&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-M0&layout=compact&theme=dark&show)
+<img src="https://github-readme-stats.vercel.app/api?username=Samir-M0&theme=dark&show_icons=true"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-M0&layout=compact&theme=dark&show"></img>
 <div> 
   <a href = "mailto:samirmendes122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
