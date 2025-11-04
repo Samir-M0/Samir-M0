@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samir-M0&theme=dark&show_icons=true&include_all_commits=true&count_private=true"></img>
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Samir-M0&show_icons=tru&theme=dark&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-M0&layout=compact&theme=dark&show"></img>
 <div> 
   <a href = "mailto:samirmendes122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
